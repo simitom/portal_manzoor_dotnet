@@ -1,0 +1,14 @@
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\BLL.dll.config
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\BLL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\BLL.pdb
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\BOL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\DAL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\EntityFramework.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\BOL.pdb
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\DAL.pdb
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\EntityFramework.xml
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\obj\Debug\BLL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BLL\obj\Debug\BLL.pdb

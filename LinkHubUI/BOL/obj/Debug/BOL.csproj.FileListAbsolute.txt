@@ -1,0 +1,9 @@
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\BOL.dll.config
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\BOL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\BOL.pdb
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\EntityFramework.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\EntityFramework.SqlServer.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\EntityFramework.xml
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\bin\Debug\EntityFramework.SqlServer.xml
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\obj\Debug\BOL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\BOL\obj\Debug\BOL.pdb

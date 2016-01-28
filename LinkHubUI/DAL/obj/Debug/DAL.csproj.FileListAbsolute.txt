@@ -1,0 +1,12 @@
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\DAL.dll.config
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\DAL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\DAL.pdb
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\BOL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\EntityFramework.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\BOL.pdb
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\EntityFramework.xml
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\obj\Debug\DAL.dll
+E:\myprojects\DotNet_tutorials\Project7\LinkHubUI\DAL\obj\Debug\DAL.pdb
